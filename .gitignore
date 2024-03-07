@@ -1,0 +1,14 @@
+# Ignore system and IDE files
+.DS_Store
+.idea/
+.vscode/
+
+# Ignore compiled files
+*.pyc
+
+# Ignore build directories
+build/
+dist/
+
+# Ignore virtual environments
+venv/
