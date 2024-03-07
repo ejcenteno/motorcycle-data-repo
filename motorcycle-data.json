@@ -1,0 +1,63 @@
+{
+    "motorcycle_brands": [
+      {
+        "brand_name": "Honda",
+        "motorcycle_builds": [
+          {
+            "build_year": "2023",
+            "motorcycles": [
+              {
+                "model": "CBR1000RR",
+                "type": "Sportbike",
+                "transmission": "Manual",
+                "fuel_type": "Gasoline",
+                "average_fuel_consumption": "40 km/l"
+              }
+            ]
+          },
+          {
+            "build_year": "2024",
+            "motorcycles": [
+              {
+                "model": "CRF250L",
+                "type": "Dual Sport",
+                "transmission": "Manual",
+                "fuel_type": "Gasoline",
+                "average_fuel_consumption": "30 km/l"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "brand_name": "Yamaha",
+        "motorcycle_builds": [
+          {
+            "build_year": "2023",
+            "motorcycles": [
+              {
+                "model": "YZF-R1",
+                "type": "Superbike",
+                "transmission": "Manual",
+                "fuel_type": "Gasoline",
+                "average_fuel_consumption": "35 km/l"
+              }
+            ]
+          },
+          {
+            "build_year": "2024",
+            "motorcycles": [
+              {
+                "model": "MT-07",
+                "type": "Naked",
+                "transmission": "Manual",
+                "fuel_type": "Gasoline",
+                "average_fuel_consumption": "45 km/l"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
